@@ -11,9 +11,9 @@ This repository uses public data from the Western Pennsylvania Regional Data Cen
 | Name | Email | Individual Notebook |
 |---|---|---|
 | Yue (Nathan) Li | nal303@pitt.edu | TBD |
-| Owen Zhang |  | TBD |
-| Eddie Witschard |  | TBD |
-| Cooper Ferrance | | TBD |
+| Owen Zhang | haz168@pitt.edu | TBD |
+| Eddie Witschard | edw53@pitt.edu | TBD |
+| Cooper Ferrance | cof63@pitt.edu | TBD |
 
 
 
