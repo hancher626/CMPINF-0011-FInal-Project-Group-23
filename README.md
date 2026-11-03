@@ -10,7 +10,7 @@ This repository uses public data from the Western Pennsylvania Regional Data Cen
 
 | Name | Email | Individual Notebook |
 |---|---|---|
-| Yue (Nathan) Li | nal303@pitt.edu | TBD |
+| Yue (Nathan) Li | nal303@pitt.edu | `nathan_housing_price.ipynb` |
 | Owen Zhang | haz168@pitt.edu | TBD |
 | Eddie Witschard | edw53@pitt.edu | TBD |
 | Cooper Ferrance | cof63@pitt.edu | TBD |
@@ -28,4 +28,4 @@ We define “best” as the neighborhood that would suit a family moving to Pitt
 | School | TBD | TBD | TBD|
 | Crime rate | TBD | TBD | TBD|
 | Bus access | TBD | TBD | TBD|
-| Housing price | TBD | TBD | TBD|
+| Housing price | Allegheny County Property Sale Transactions (2025) | 2025 home sales in Allegheny County with sale prices used to find the average home price in each Pittsburgh neighborhood | https://data.wprdc.org/dataset/real-estate-sales|
