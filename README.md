@@ -11,7 +11,7 @@ This repository uses public data from the Western Pennsylvania Regional Data Cen
 | Name | Email | Individual Notebook |
 |---|---|---|
 | Yue (Nathan) Li | nal303@pitt.edu | `nathan_housing_price.ipynb` |
-| Owen Zhang | haz168@pitt.edu | TBD |
+| Owen Zhang | haz168@pitt.edu | `owen_bus_access.ipynb` |
 | Eddie Witschard | edw53@pitt.edu | TBD |
 | Cooper Ferrance | cof63@pitt.edu | `cooper_crime_notebook.ipynb` |
 
@@ -27,5 +27,5 @@ We define “best” as the neighborhood that would suit a family moving to Pitt
 |---|---|---|---|
 | School | TBD | TBD | TBD|
 | Crime rate | Pittsburgh Police Arrests (2024-2026) | All Pittsburgh Police arrests from 2024 to October 2026 with data including neighborhood and charge severity (eg. Misdimenour, Felony)  | https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025|
-| Bus access | TBD | TBD | TBD|
+| Bus access | Pittsburgh Regional Transit Stops | All transit stops in Pittsburgh with data including number of weekday trips, number of routes, and exact location | https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops/resource/d6e6ed6e-9220-4a0e-9796-e72d83ce8e7a|
 | Housing price | Allegheny County Property Sale Transactions (2025) | 2025 home sales in Allegheny County with sale prices used to find the average home price in each Pittsburgh neighborhood | https://data.wprdc.org/dataset/real-estate-sales|
