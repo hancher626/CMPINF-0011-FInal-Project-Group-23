@@ -20,7 +20,7 @@ This repository uses public data from the Western Pennsylvania Regional Data Cen
 **Final Project Notebook:** `final_project_notebook.ipynb`
 
 ## Metric
-We define “best” as the neighborhood that would suit a family moving to Pittsburgh. Each member measured one sub-metric (schools, crime rate, bus access, and housing price), and we averaged the neighborhood rankings into a base score. The neighborhoods that ranked highest in each sub-metric also received bonus points, since those were the family’s top priorities.
+We define **“best”** as the neighborhood that would suit a family moving to Pittsburgh. Each member measured one sub-metric (schools, crime rate, bus access, and housing price), and we give every neighborhood a score from 0 to 1, where a higher score is better. We averaged the four scores, so each sub-mecric counts equally. The neighborhoods with the highest average score is our best neighborhood.
 
 ## Datasets
 | Sub-metric | Dataset | Description | Link |

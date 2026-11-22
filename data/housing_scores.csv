@@ -1,81 +1,81 @@
-Neighborhood,Housing Score
-Homewood West,1.0
-Beltzhoover,1.0
-Hays,1.0
-Homewood North,1.0
-Lincoln-Lemington-Belmar,1.0
-Homewood South,1.0
-Elliott,1.0
-Marshall-Shadeland,1.0
-Arlington,1.0
-Knoxville,1.0
-Allentown,1.0
-West End,1.0
-East Carnegie,1.0
-Perry South,1.0
-Chartiers City,1.0
-East Hills,1.0
-Mt. Oliver,1.0
-Upper Hill,1.0
-Sheraden,1.0
-Carrick,1.0
-Terrace Village,1.0
-Overbrook,1.0
-Spring Garden,1.0
-Bon Air,1.0
-Crafton Heights,1.0
-Larimer,1.0
-Lincoln Place,1.0
-Windgap,1.0
-Spring Hill-City View,1.0
-Crawford-Roberts,1.0
-Ridgemont,1.0
-Fairywood,1.0
-Beechview,1.0
-Hazelwood,1.0
-Middle Hill,1.0
-South Side Slopes,1.0
-Westwood,1.0
-Brighton Heights,1.0
-Perry North,1.0
-California-Kirkbride,1.0
-Summer Hill,1.0
-New Homestead,1.0
-Brookline,1.0
-Polish Hill,1.0
-Oakwood,1.0
-Fineview,1.0
-Mount Washington,1.0
-Banksville,1.0
-Troy Hill,1.0
-South Oakland,1.0
-Garfield,1.0
-Greenfield,1.0
-North Oakland,1.0
-Central Business District,1.0
-Swisshelm Park,1.0
-West Oakland,1.0
-Stanton Heights,1.0
-Bluff,1.0
-South Side Flats,1.0
-Point Breeze North,1.0
-Bloomfield,1.0
-Morningside,1.0
-Duquesne Heights,1.0
-East Allegheny,1.0
-Upper Lawrenceville,1.0
-Lower Lawrenceville,0.94
-Manchester,0.93
-Squirrel Hill South,0.91
-Central Lawrenceville,0.89
-Friendship,0.89
-Regent Square,0.89
-Shadyside,0.86
-Central Northside,0.85
-East Liberty,0.8
-Central Oakland,0.71
-Highland Park,0.71
-Point Breeze,0.66
-Strip District,0.61
-Allegheny West,0.55
-Squirrel Hill North,0.52
+Neighborhood,Median Price,Housing Score
+Homewood West,51500.0,1.0
+Beltzhoover,56750.0,1.0
+Hays,67000.0,1.0
+Homewood North,70000.0,1.0
+Lincoln-Lemington-Belmar,70000.0,1.0
+Homewood South,75000.0,1.0
+Elliott,96000.0,1.0
+Marshall-Shadeland,110000.0,1.0
+Arlington,115500.0,1.0
+Knoxville,117000.0,1.0
+Allentown,120000.0,1.0
+West End,129000.0,1.0
+East Carnegie,129000.0,1.0
+Perry South,134000.0,1.0
+Chartiers City,136525.0,1.0
+East Hills,137862.5,1.0
+Mt. Oliver,139900.0,1.0
+Upper Hill,144950.0,1.0
+Sheraden,145000.0,1.0
+Carrick,148756.0,1.0
+Terrace Village,155000.0,1.0
+Overbrook,163500.0,1.0
+Spring Garden,164500.0,1.0
+Bon Air,173000.0,1.0
+Crafton Heights,175000.0,1.0
+Larimer,175000.0,1.0
+Lincoln Place,175750.0,1.0
+Windgap,178000.0,1.0
+Spring Hill-City View,182000.0,1.0
+Crawford-Roberts,182000.0,1.0
+Ridgemont,183500.0,1.0
+Fairywood,185000.0,1.0
+Beechview,185000.0,1.0
+Hazelwood,185250.0,1.0
+Middle Hill,190000.0,1.0
+South Side Slopes,197499.5,1.0
+Westwood,201500.0,1.0
+Brighton Heights,202000.0,1.0
+Perry North,205000.0,1.0
+California-Kirkbride,205000.0,1.0
+Summer Hill,210500.0,1.0
+New Homestead,217750.0,1.0
+Brookline,218000.0,1.0
+Polish Hill,220000.0,1.0
+Oakwood,224950.0,1.0
+Fineview,232500.0,1.0
+Mount Washington,235000.0,1.0
+Banksville,240000.0,1.0
+Troy Hill,244000.0,1.0
+South Oakland,249000.0,1.0
+Garfield,250000.0,1.0
+Greenfield,256750.0,1.0
+North Oakland,285000.0,1.0
+Central Business District,290000.0,1.0
+Swisshelm Park,291750.0,1.0
+West Oakland,294000.0,1.0
+Stanton Heights,295000.0,1.0
+Bluff,295000.0,1.0
+South Side Flats,298000.0,1.0
+Point Breeze North,324000.0,1.0
+Bloomfield,325000.0,1.0
+Morningside,340000.0,1.0
+Duquesne Heights,349000.0,1.0
+East Allegheny,371750.0,1.0
+Upper Lawrenceville,400000.0,1.0
+Lower Lawrenceville,425000.0,0.94
+Manchester,430000.0,0.93
+Squirrel Hill South,439000.0,0.91
+Central Lawrenceville,447500.0,0.89
+Friendship,448750.0,0.89
+Regent Square,450000.0,0.89
+Shadyside,465000.0,0.86
+Central Northside,469900.0,0.85
+East Liberty,501000.0,0.8
+Central Oakland,565000.0,0.71
+Highland Park,565000.0,0.71
+Point Breeze,605000.0,0.66
+Strip District,659000.0,0.61
+Allegheny West,730000.0,0.55
+Squirrel Hill North,775000.0,0.52
